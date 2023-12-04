@@ -39,4 +39,4 @@ Post
 
 
 
-Thank you so much. I have realize the bug. The list it is being store in is index1 when the command is getting result from list 2. Therefore, I only need to change the list to index2.
+Thank you so much. I have found the bug. The list it is being stored in is index1 when the command is getting results from list 2. Therefore, I only need to change the list from index1 to index2.
