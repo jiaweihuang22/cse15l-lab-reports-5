@@ -1,4 +1,5 @@
-**Post**
+Post
+=========
 
 
 
@@ -14,7 +15,9 @@ I am having problem fixing the bug in ListExamples.java. By running `bash test.s
 
 
 
-**Response**
+
+Response
+=========
 
 
 
@@ -22,7 +25,9 @@ The hint that I can give you is the list the result is being store in. Think abo
 
 
 
-**Post**
+
+Post
+=========
 
 
 
