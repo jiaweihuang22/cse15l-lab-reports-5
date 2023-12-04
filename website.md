@@ -11,7 +11,7 @@ Post
 
 
 
-I am having problem fixing the bug in ListExamples.java. By running `bash test.sh` I know there's a bug I need to change but I can't figure which part of the code I need to change.
+I am having a problem fixing the bug in ListExamples.java. By running `bash test.sh` I know there's a bug I need to change but I can't figure out which part of the code I need to change.
 
 
 
@@ -21,7 +21,7 @@ Response
 
 
 
-The hint that I can give you is the list the result is being store in. Think about what list should it be store in when it's the number behind it is 1 or 2.
+The hint that I can give you is the list the result is being stored in. Think about what list it should be stored in when it's the number behind it is 1 or 2.
 
 
 
